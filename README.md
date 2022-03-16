@@ -1,0 +1,2 @@
+# -VeriYapilariVeAlgoritmalar
+PatikaDevVeriYapilariVeAlgoritmalar
