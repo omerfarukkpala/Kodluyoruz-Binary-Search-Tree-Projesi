@@ -1,5 +1,5 @@
 # -VeriYapilariVeAlgoritmalar
-PatikaDevVeriYapilariVeAlgoritmalar
+PatikaDevVeriYapilariVeAlgoritmalar Binary Search Tree
 
 # Kodluyoruz-Binary-Search-Tree-Projesi
 
